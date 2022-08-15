@@ -9,7 +9,7 @@ public class SortingArraysjava3 {
 		
 		System.out.println("Elements of original array");
 		
-		for(int i=0:i<arr.length;i++) {
+		for(int i=0;i<arr.length;i++) {
 			System.out.print(arr[i]+ " ");
 		}
 		
