@@ -3,7 +3,7 @@ package javastart;
 import java.util.ArrayList;
 import java.util.Iterator;
 
-public class ArrayListSample1 {
+public class ArrayListSample2 {
 
 	public static void main(String[] args) {
 		
